@@ -26,3 +26,8 @@ This is an example of showing text with an *asterisk* that will not be italicize
 ___
 <!--Block Quote-->
 >This is going to be displayed as a quote with a background and line on the left side.
+___
+<!--Creating Links using markDown-->
+**Note**
+The text that will go with the links should be in bracket and the links with parenthesis.
+[kronhub.com]
