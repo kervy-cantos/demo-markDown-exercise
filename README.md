@@ -33,4 +33,4 @@ The text that will go with the links should be in bracket and the links with par
 [kronHub](fb.com)
 **Note**
 If we want to add a title tooltip add a space inside the parenthesis with quotes to display a baloon tip.
-[kronHub](fb.com *fb*)
+[kronHub](fb.com "fb")
