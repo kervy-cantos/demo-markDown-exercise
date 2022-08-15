@@ -23,3 +23,6 @@ Using triple underscores will be able to create horizontal rules to separate con
 ___
 <!--Escape character using backslash-->
 This is an example of showing text with an *asterisk* that will not be italicized \*asterisk*
+___
+<!--Block Quote-->
+>This is going to be displayed as a quote with a background and line on the left side.
