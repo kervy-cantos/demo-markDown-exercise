@@ -34,3 +34,6 @@ The text that will go with the links should be in bracket and the links with par
 **Note**
 If we want to add a title tooltip add a space inside the parenthesis with quotes to display a baloon tip.
 [kronHub](fb.com "fb")
+___
+<!--Image Display-->
+![This is an image](https://static.scientificamerican.com/sciam/cache/file/9CAE9C60-8BC5-4CA3-95C180EFACDD99FD_source.jpg?w=590&h=800&5DC00F08-F74F-402B-811CEE0D33E933CB)
